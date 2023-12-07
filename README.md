@@ -1,7 +1,7 @@
 # Proyecto_FinalCS
 Proyecto final - Construccion Software
-<h1 align="center">Aplicacion CalcularSueldo para la empresa "HORIZONTE"</h1>
-Aplicacion desarrollado en python:
+<h1 clas="text-center justify-center font-bold">Aplicacion CalcularSueldo para la empresa "HORIZONTE"</h1>
+<p class="text-center font-green font-bold">Aplicacion desarrollado en python:</p>
 
 ## Objetivos del Proyecto: 
     - Desarrollar un programa que realice el cálculo del sueldo a pagar a un
@@ -13,7 +13,7 @@ Aplicacion desarrollado en python:
       
 # Integrantes:
 
- - Chavez Jimenez Magdalena Del Carmen
+ - Chávez Jimenez Magdalena Del Carmen
  - Curipaco Simon Rogger
  - Dueñas Guerra Jesus Korlant
  - Gutierrez Medina Jesus Manuel
