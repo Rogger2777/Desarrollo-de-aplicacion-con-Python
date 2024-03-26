@@ -1,7 +1,7 @@
 <div class="text-center justify-center align-center">
     <div>
         <h2 class="font-bold">Dessarrolo de aplicacion con Python</h5>
-        <h4>Proyecto final - Construccion Software</p>
+     
         <h4>Aplicacion "CalcularSueldo" para la empresa "HORIZONTE"</h4>
         <p>Aplicacion desarrollado en python:</p>
     </div>   
